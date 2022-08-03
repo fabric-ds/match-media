@@ -1,0 +1,16 @@
+{
+  "name": "@fabric-ds/match-media",
+  "version": "0.9.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./main.js",
+    "./vue": "./vue.js"
+  },
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0"
+  }
+}
